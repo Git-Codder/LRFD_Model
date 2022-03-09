@@ -4,7 +4,7 @@
 
 
 ===== Articles ===================
-1. Face Detection for Beginners -> Face Detection For Beginners
+1. Face Detection for Beginners -> https://towardsdatascience.com/face-detection-for-beginners-e58e8f21aad9
 2. How to Perform Face Detection with Deep Learning -> https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 3. How To Detect and Extract Faces from an Image with OpenCV and Python -> https://www.digitalocean.com/community/tutorials/how-to-detect-and-extract-faces-from-an-image-with-opencv-and-python
 
