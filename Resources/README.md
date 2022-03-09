@@ -1,5 +1,5 @@
 
-***********************************************Aditya***********************************************************************
+#####*Aditya*
 
 ============Papers================
 
@@ -16,3 +16,8 @@
 1. Face Detection Models: Which to Use and Why?  -> https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
 2. How Does A Face Detection Program Work? (Using Neural Networks) -> https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff
 3. Face Detection: What Is It and How Does This Tech Work? ->  https://recfaces.com/articles/what-is-face-detection
+
+
+
+
+#####*Neetin*
