@@ -18,6 +18,7 @@
 3. Face Detection: What Is It and How Does This Tech Work? ->  https://recfaces.com/articles/what-is-face-detection
 
 
-
+===========Convolution Network==========================
+1. A Comprehensible Explanation of the Dimensions in CNNs -> https://towardsdatascience.com/a-comprehensible-explanation-of-the-dimensions-in-cnns-841dba49df5e
 
 #####*Neetin*
