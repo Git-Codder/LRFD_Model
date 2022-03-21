@@ -4,6 +4,8 @@
 ============Papers================
 
 1. Paper For MTCNN -> https://arxiv.org/pdf/1604.02878.pdf
+2. Pedestrian and Face Detection with Low Resolution Based on Improved MTCNN -> https://dl.acm.org/doi/pdf/10.1145/3436369.3436492
+3. Exploring Factors for Improving Low Resolution Face Recognition -> https://openaccess.thecvf.com/content_CVPRW_2019/papers/Biometrics/Aghdam_Exploring_Factors_for_Improving_Low_Resolution_Face_Recognition_CVPRW_2019_paper.pdf
 
 
 ===== Articles ===================
