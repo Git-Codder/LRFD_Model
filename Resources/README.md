@@ -29,4 +29,6 @@
 2. What Does A Face Detection Neural Network Look Like? -> https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1
 3. 
 
+===============Face Recognition Model for Project=======================================================
+1. How to Develop a Face Recognition System Using FaceNet in Keras -> https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 #####*Neetin*
