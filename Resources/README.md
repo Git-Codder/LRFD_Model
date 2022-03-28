@@ -31,4 +31,7 @@
 
 ===============Face Recognition Model for Project=======================================================
 1. How to Develop a Face Recognition System Using FaceNet in Keras -> https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+2. How to create a Face Recognition Model using FaceNet Keras? -> https://medium.com/clique-org/how-to-create-a-face-recognition-model-using-facenet-keras-fd65c0b092f1
+3. 
+
 #####*Neetin*
